@@ -101,8 +101,8 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://policies.google.com/privacy
-
+  privacy_policy: /impressum
+  
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
 
