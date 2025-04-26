@@ -21,7 +21,7 @@ Germany
 
 **E-Mail:** christian@lasarczyk.de
 
-**Internet address:** [gasshuku-tamm.com](https://gasshuku-tamm.com)
+**Internet address:** [spec2x](https://spec2code.pages.dev)
 
 ## Disclaimer
 
