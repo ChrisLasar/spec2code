@@ -44,15 +44,15 @@ Structured using the Diátaxis framework, this guide is organized to support dif
 
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fas fa-route" title="Tutorials"  url="/tutorials" url_text="Dive in" %}}
+{{% blocks/feature icon="fas fa-route" title="Tutorials"  url="/docs/tutorials" url_text="Dive in" %}}
 Guided, step-by-step paths to achieve tangible outcomes, like building an API endpoint or a React component from a spec.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-screwdriver-wrench" title="How-to Guides" url="/howtos" url_text="Dive in"  %}}
+{{% blocks/feature icon="fas fa-screwdriver-wrench" title="How-to Guides" url="/docs/how-to-guides" url_text="Dive in"  %}}
 Practical instructions for solving specific problems, from setting up your environment to crafting effective prompts and validating generated code.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fas fa-lightbulb" title="Explanations" url="/explanations" url_text="Dive in" %}}
+{{% blocks/feature icon="fas fa-lightbulb" title="Explanations" url="/docs/explanations" url_text="Dive in" %}}
 Conceptual background to help you understand *why* spec-centered development with LLMs works, their capabilities, and limitations.
 {{% /blocks/feature %}}
 
