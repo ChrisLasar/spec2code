@@ -1,77 +1,59 @@
 ---
-title: Goldydocs
+title: Spec2x
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+{{< blocks/cover title="spec2x: Specification-Centered Development with LLMs" image_anchor="top" height="full" >}}
+<!--a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
   Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
 </a>
 <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Download <i class="fab fa-github ms-2 "></i>
-</a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+</a-->
+A Practical Guide to Transforming Specs into Software Using AI
+{.lead .mt-5}
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-
 {{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+This guide provides hands-on instruction and conceptual grounding for leveraging Large Language Models to accelerate the process of turning technical specifications into working software. Balance the speed of AI with the rigor of a spec-first approach.
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+↓ Explore the Guide
 {{% /blocks/lead %}}
 
-
 {{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
-
-Please follow this space for updates!
+{{% blocks/feature icon="fas fa-rocket" title="Transform Specs into Code, Faster" %}}
+Discover practical techniques to go from specifications – whether functional requirements, API designs, or user stories – to generated code drafts using LLM coding assistance. Learn to apply a workflow where the specification remains the primary source of truth, enhanced by AI acceleration.
 {{% /blocks/feature %}}
 
-
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fas fa-users" title="Who This Guide is For" %}}
+Designed for senior software engineers, software architects, product owners, and product managers who have intermediate familiarity with AI tools and some ad-hoc experience with coding assistants. We bridge the gap between understanding the potential of LLMs and applying them effectively in development workflows.
 {{% /blocks/feature %}}
 
-
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fas fa-seedling" title="Our Core Philosophy" %}}
+At the heart of this guide is the principle of specification-centered development. We show you how to use LLMs as powerful accelerators for code generation and translation, but always grounded in and verified against a clear, robust specification. Code is secondary; the spec is primary.
 {{% /blocks/feature %}}
-
-
 {{% /blocks/section %}}
-
 
 {{% blocks/section %}}
-This is the second section
+How the Guide Helps You
 {.h1 .text-center}
-{{% /blocks/section %}}
 
+Structured using the Diátaxis framework, this guide is organized to support different learning and doing styles:
+{.text-center}
+{{% /blocks/section %}}
 
 {{% blocks/section type="row" %}}
 
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
+{{% blocks/feature icon="fas fa-route" title="Tutorials"  url="/tutorials" url_text="Dive in" %}}
+Guided, step-by-step paths to achieve tangible outcomes, like building an API endpoint or a React component from a spec.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
+{{% blocks/feature icon="fas fa-screwdriver-wrench" title="How-to Guides" url="/howtos" url_text="Dive in"  %}}
+Practical instructions for solving specific problems, from setting up your environment to crafting effective prompts and validating generated code.
 {{% /blocks/feature %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
+{{% blocks/feature icon="fas fa-lightbulb" title="Explanations" url="/explanations" url_text="Dive in" %}}
+Conceptual background to help you understand *why* spec-centered development with LLMs works, their capabilities, and limitations.
 {{% /blocks/feature %}}
 
-{{% /blocks/section %}}
-
-
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
 {{% /blocks/section %}}
